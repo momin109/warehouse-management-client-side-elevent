@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "bice-sicle",
+        "price": 30,
+        "img": "https://i.ibb.co/tbMCJhJ/Mountain-Bike-3-1.png",
+        "description": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "2",
+        "name": "bice-sicle",
+        "price": 26,
+        "img": "https://i.ibb.co/w7ctM53/Mountain-Bike-1.png",
+        "description": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "3",
+        "name": "bice-sicle",
+        "price": 25,
+        "img": "https://i.ibb.co/tbMCJhJ/Mountain-Bike-3-1.png",
+        "description": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "4",
+        "name": "bice-sicle",
+        "price": 320,
+        "img": "https://i.ibb.co/3MFCWhq/Mountain-Bike-5.png",
+        "description": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "5",
+        "name": "bice-sicle",
+        "price": 120,
+        "img": "https://i.ibb.co/HCFdg4T/Road-Bike-2.png",
+        "description": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "6",
+        "name": "bice-sicle",
+        "price": 150,
+        "img": "https://i.ibb.co/T197176/Mountain-Bike-2.png",
+        "description": " a Quick brown fox jumps over the lezy dog"
+    }
+]

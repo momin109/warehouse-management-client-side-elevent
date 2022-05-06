@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.image img {
+    width: 470px;
+}
+
+.description {
+    width: 470px;
+    padding-left: 30px;
+}
