@@ -14,7 +14,7 @@ const Experts = () => {
         <div id='expert' className='container '>
             <div className='image'> <img src={bike} alt="" /></div>
             <div className='description'>
-                <h3>KOMO bike rental service</h3>
+                <h3>Renroll bike rental service</h3>
                 <p>Consecterur adipisicing elif sed eiusmod tempor dolore magna aliqua minip
                     veniam nostrud exercitation aliquip perpiciats unde omnis iste natus error sit
                     voluptatem ac ntium doloreque laudatiu.
