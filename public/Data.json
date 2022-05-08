@@ -1,44 +1,44 @@
 [
     {
         "id": "1",
-        "name": "bice-sicle",
-        "price": 30,
+        "name": "cycles non gear",
+        "price": 300,
         "img": "https://i.ibb.co/tbMCJhJ/Mountain-Bike-3-1.png",
-        "description": " a Quick brown fox jumps over the lezy dog"
+        "description": "Urban Terrain UT3000 Series, Alloy MTB 27.5 Mountain Cycle with 21 Shimano Gear , PAN India  "
     },
     {
         "id": "2",
-        "name": "bice-sicle",
-        "price": 26,
+        "name": "Hero Non Gear Cycles",
+        "price": 260,
         "img": "https://i.ibb.co/w7ctM53/Mountain-Bike-1.png",
-        "description": " a Quick brown fox jumps over the lezy dog"
+        "description": "Baheti Enterprises Hercules Roadeo Hank 26 Hard Tail Dual Disc Shimano Brake Stylish Sporty Blue "
     },
     {
         "id": "3",
-        "name": "bice-sicle",
-        "price": 25,
+        "name": "Avon Non Gear Cycles",
+        "price": 250,
         "img": "https://i.ibb.co/tbMCJhJ/Mountain-Bike-3-1.png",
-        "description": " a Quick brown fox jumps over the lezy dog"
+        "description": " Omobikes Hampi 707 Light weight Hybrid Cycle for Men woman and adults, with Dual disc brakes "
     },
     {
         "id": "4",
-        "name": "bice-sicle",
+        "name": "Non Gear Cycles",
         "price": 320,
         "img": "https://i.ibb.co/3MFCWhq/Mountain-Bike-5.png",
-        "description": " a Quick brown fox jumps over the lezy dog"
+        "description": " Omobikes Alloy Frame 21 Gear Light Weight 29T Hybrid Cycle for Men Women, with Dual disc "
     },
     {
         "id": "5",
-        "name": "bice-sicle",
+        "name": "Fat Tyre Cycle",
         "price": 120,
         "img": "https://i.ibb.co/HCFdg4T/Road-Bike-2.png",
-        "description": " a Quick brown fox jumps over the lezy dog"
+        "description": " Lifelong LLBC2702 Falcon 27.5T with Disc Brake and Suspension Cycle (Black) I Ideal for : "
     },
     {
         "id": "6",
-        "name": "bice-sicle",
+        "name": "Cycle Non Gear",
         "price": 150,
         "img": "https://i.ibb.co/T197176/Mountain-Bike-2.png",
-        "description": " a Quick brown fox jumps over the lezy dog"
+        "description": " Lifelong LLBC2602 Falcon 26T with Disc Brake and Suspension Cycle (Black) I Ideal For: Adults "
     }
 ]
