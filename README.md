@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+## 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live side link : https://warehouse-management-cli-dcfa7.web.app
+
+- create new firebase project
+- npm install firebase
+- firebase setting> go to Authentication
+- Create Login , Sign Up component setup route
+- attach form field handler and form sumbit handler
+- npm install --save react-firebase-hooks
+
+
 
 ## Available Scripts
 
