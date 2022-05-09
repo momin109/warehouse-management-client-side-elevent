@@ -2,42 +2,54 @@
     {
         "id": "1",
         "name": "cycles non gear",
-        "price": 300,
+        "price": "300",
+        "supplier": "duranta",
+        "quantity": "5",
         "img": "https://i.ibb.co/tbMCJhJ/Mountain-Bike-3-1.png",
         "description": "Urban Terrain UT3000 Series, Alloy MTB 27.5 Mountain Cycle with 21 Shimano Gear , PAN India  "
     },
     {
         "id": "2",
         "name": "Hero Non Gear Cycles",
-        "price": 260,
+        "price": "260",
+        "supplier": "duranta",
+        "quantity": "5",
         "img": "https://i.ibb.co/w7ctM53/Mountain-Bike-1.png",
         "description": "Baheti Enterprises Hercules Roadeo Hank 26 Hard Tail Dual Disc Shimano Brake Stylish Sporty Blue "
     },
     {
         "id": "3",
         "name": "Avon Non Gear Cycles",
-        "price": 250,
+        "price": "250",
+        "supplier": "duranta",
+        "quantity": "5",
         "img": "https://i.ibb.co/tbMCJhJ/Mountain-Bike-3-1.png",
         "description": " Omobikes Hampi 707 Light weight Hybrid Cycle for Men woman and adults, with Dual disc brakes "
     },
     {
         "id": "4",
         "name": "Non Gear Cycles",
-        "price": 320,
+        "price": "320",
+        "supplier": "duranta",
+        "quantity": "5",
         "img": "https://i.ibb.co/3MFCWhq/Mountain-Bike-5.png",
         "description": " Omobikes Alloy Frame 21 Gear Light Weight 29T Hybrid Cycle for Men Women, with Dual disc "
     },
     {
         "id": "5",
         "name": "Fat Tyre Cycle",
-        "price": 120,
+        "price": "120",
+        "supplier": "duranta",
+        "quantity": "5",
         "img": "https://i.ibb.co/HCFdg4T/Road-Bike-2.png",
         "description": " Lifelong LLBC2702 Falcon 27.5T with Disc Brake and Suspension Cycle (Black) I Ideal for : "
     },
     {
         "id": "6",
         "name": "Cycle Non Gear",
-        "price": 150,
+        "price": "150",
+        "supplier": "duranta",
+        "quantity": "5",
         "img": "https://i.ibb.co/T197176/Mountain-Bike-2.png",
         "description": " Lifelong LLBC2602 Falcon 26T with Disc Brake and Suspension Cycle (Black) I Ideal For: Adults "
     }
